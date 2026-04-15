@@ -1,6 +1,14 @@
-# 🎲 Monopoly Klagenfurt
-
-> *Because regular Monopoly wasn't rage-inducing enough — now it's multiplayer, real-time, and runs on your phone.*
+<table>
+  <tr>
+    <td width="400" valign="top">
+      <img src="/SplashScreen.png" width="400" />
+    </td>
+    <td>
+      <h1>Monopoly - Klagenfurt Edition</h1>
+      <p><i>Because regular Monopoly wasn't rage-inducing enough — now it's multiplayer, real-time, and runs on your phone.</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
